@@ -10,4 +10,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1. Open the [project codespace](https://yurist38-urban-space-waffle-979756r7wjvf7q9g.github.dev/)
+2. Run the project in the Docker: `docker-compose up`
